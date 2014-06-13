@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This file defines the base public resources exported by the
+     platform, which must always exist. -->
+
+<!-- ***************************************************************
+     ***************************************************************
+     IMPORTANT NOTE FOR ANYONE MODIFYING THIS FILE
+     READ THIS BEFORE YOU MAKE ANY CHANGES
+
+     This file defines the binary compatibility for resources.  As such,
+     you must be very careful when making changes here, or you will
+     completely break backwards compatibility with old applications.
+
+     To avoid breaking compatibility, all new resources must be placed
+     at the end of the list of resources of the same type.  Placing a resource
+     in the middle of type will cause all following resources to be
+     assigned new resource numbers, breaking compatibility.
+
+     ***************************************************************
+     *************************************************************** -->
+<resources>
+
+<!-- ===============================================================
+     Resources for version 1 of the platform.
+     =============================================================== -->
+  <eat-comment />
+  <public type="string" name="app_name" id="0x7f050000" />
+  <public type="string" name="error_key" id="0x7f050008" />
+  
+  <public type="string" name="error_network" id="0x7f050007" />
+  <public type="string" name="error_other" id="0x7f050009" />
+  
+  <public type="string" name="no_result" id="0x7f050006" />
+  <public type="string" name="sensitivity" id="0x7f050001" />
+  <public type="string" name="sensitivity_hint" id="0x7f050003" />
+  
+  <public type="string" name="sensitivity_text" id="0x7f050002" />
+  <public type="string" name="text_update_range" id="0x7f050004" />
+  <public type="string" name="update_range_hint" id="0x7f050005" />
+</resources>

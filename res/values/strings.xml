@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>    
+    <string name="app_name">打鸭子</string>
+    
+    <string name="sensitivity">Sensitivity\n(lower = more sensitive)</string>
+    
+    <string name="sensitivity_text">"Sensitivity:"</string>
+    <string name="sensitivity_hint">"Sensitivity"</string>
+    
+    <string name="text_update_range">更新范围</string>
+    <string name="update_range_hint">当移动范围超过设定值时，自动搜索最近的餐厅</string>
+    
+    <string name="no_result">对不起，没有搜索到相关数据！</string>
+    <string name="error_network">搜索失败,请检查网络连接！</string>
+    <string name="error_key">key验证无效！</string>
+    <string name="error_other">未知错误，请稍后重试!错误码为</string>
+    <string name="invite">邀请您参与，打开有惊喜！</string>
+    
+    <string name="chanle">取消</string>
+    <string name="sure">确定</string>
+    <string name="new_apk">检测到新版本确定要更新吗？</string>
+    <string name="info">消息</string>
+    
+</resources>
